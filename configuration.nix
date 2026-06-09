@@ -8,6 +8,7 @@
   imports =
     [ # Include the results of the hardware scan.
       /etc/nixos/hardware-configuration.nix
+      ./zsh.nix
     ];
 
   # Bootloader.
@@ -102,6 +103,7 @@
   ghostty
   vscode-fhs
   git
+  zsh
   ];
 
   # Some programs need SUID wrappers, can be configured further or are
