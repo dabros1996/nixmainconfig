@@ -103,7 +103,7 @@
   ghostty
   vscode-fhs
   git
-  zsh
+  vivaldi
   ];
 
   # Some programs need SUID wrappers, can be configured further or are
