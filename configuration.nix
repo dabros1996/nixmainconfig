@@ -9,6 +9,7 @@
     [ # Include the results of the hardware scan.
       /etc/nixos/hardware-configuration.nix
       ./zsh.nix
+      ./containers.nix
     ];
 
   # Bootloader.
